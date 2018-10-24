@@ -46,16 +46,14 @@ $account = $instagram->getAccount('kevin');
 
 ## Installation
 
-I don't have a packagist yet. At the moment you can use Postaddictme's version.
-
 ### Using composer
 
 ```sh
-composer.phar require raiym/instagram-php-scraper
+composer.phar require taufikp/igscraper
 ```
 or 
 ```sh
-composer require raiym/instagram-php-scraper
+composer require taufikp/igscraper
 ```
 
 ### If you don't have composer
