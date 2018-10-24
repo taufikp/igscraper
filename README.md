@@ -1,7 +1,7 @@
-# PHP Instagram Scraper 
-This library is based on Postaddictme's Instagram PHP Scraper.
+# IGScraper
+This library is based on [Postaddictme's Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper).
 
-This library is based on the Instagram web version. We develop it because nowadays it is hard to get an approved Instagram application. The purpose is to support every feature that the web desktop and mobile version support. 
+This library is based on the Instagram web version. Most of the time you don't have to use OAuth.
 
 ## Code Example
 ```php
