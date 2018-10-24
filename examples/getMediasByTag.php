@@ -14,7 +14,7 @@ require __DIR__ . '/../vendor/autoload.php';
  */
 $instagram = new \IGScraper\Instagram();
 
-$medias = $instagram->getMediasByTag('halodoccetaku', 20);
+$medias = $instagram->getMediasByTag('marvel', 20);
 $media = $medias[0];
 echo "MEDIA INFO:\n";
 echo "Id: {$media->getId()}\n";
